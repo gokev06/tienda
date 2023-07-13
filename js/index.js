@@ -92,3 +92,4 @@ boton1a.onclick= function(){
     contador--;
     pElement.textContent=contador;
 }
+
